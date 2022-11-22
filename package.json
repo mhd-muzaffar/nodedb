@@ -8,6 +8,7 @@
   "main": "demo_create_table.js",
   "devDependencies": {},
   "scripts": {
+    "start": "demo_create_table.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "muz",
